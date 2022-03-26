@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Tino</h1>
-- 👨‍💻 Sitio personal: [https://tinexlab.com](https://tinexlab.com)
+- Sitio personal: https://tinexlab.com
 
-- 📫 Correo: **tinoreyna1984@gmail.com**
+- Correo: **tinoreyna1984@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
