@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Tino</h1>
 <ul>
-  <li>Sitio personal: https://tinexlab.com</li>
+  <li>Sitio personal: https://tinexlab.com (respaldo: https://tinexlab.netlify.app/)</li>
   <li>Correo: tinoreyna1984@gmail.com</li>
 </ul>
 <h3 align="left">Contacto:</h3>
