@@ -101,4 +101,7 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tinoreyna1984&show_icons=true&locale=en" alt="tinoreyna1984" />
 </p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tinoreyna1984&" alt="tinoreyna1984" />
+</p>
 
