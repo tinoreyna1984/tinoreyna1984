@@ -95,5 +95,7 @@
     />
   </a>
 </p>
-
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tinoreyna1984&show_icons=true&locale=en" alt="tinoreyna1984" />
+</p>
 
