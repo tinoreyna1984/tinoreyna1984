@@ -1,12 +1,5 @@
 <h1 align="center">Hola, soy Tino</h1>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinoreyna1984&show_icons=true&locale=en&layout=compact" alt="tinoreyna1984" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tinoreyna1984&show_icons=true&locale=en" alt="tinoreyna1984" />
-</p>
-
 <ul>
   <li>Sitio personal: https://tinexlab.com (respaldo: https://tinexlab.netlify.app/)</li>
   <li>Correo: tinoreyna1984@gmail.com</li>
