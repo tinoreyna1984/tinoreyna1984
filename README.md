@@ -19,6 +19,15 @@
       width="40"
       height="40"
     />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://media.graphassets.com/VKHHNvEETYqZRkqgjybc"
+      alt="next.js"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -82,19 +91,10 @@
       height="40"
     />
   </a>
-  </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
       alt="sqlite"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://media.graphassets.com/VKHHNvEETYqZRkqgjybc"
-      alt="next.js"
       width="40"
       height="40"
     />
