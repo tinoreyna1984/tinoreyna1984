@@ -45,7 +45,7 @@
   </a>
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
     <img
-      src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress"
+      src="https://victorroblesweb.es/wp-content/uploads/2016/11/mongodb.png"
       alt="mongodb"
       width="40"
       height="40"
