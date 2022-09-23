@@ -45,7 +45,7 @@
   </a>
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
     <img
-      src="https://dc722jrlp2zu8.cloudfront.net/media/cache/94/9c/949ca01bac714cf605da4ed75891cc72.webp"
+      src="https://tecnoticias.net/wp-content/uploads/2021/02/mongodb-atlas-google-cloud-partnership-nosql-databases-integrations-2.jpg"
       alt="mongodb"
       width="40"
       height="40"
