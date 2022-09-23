@@ -47,7 +47,7 @@
     <img
       src="https://tecnoticias.net/wp-content/uploads/2021/02/mongodb-atlas-google-cloud-partnership-nosql-databases-integrations-2.jpg"
       alt="mongodb"
-      width="120"
+      width="90"
       height="40"
     />
   </a>
