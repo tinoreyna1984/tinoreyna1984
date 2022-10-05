@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Tino</h1>
 
 <ul>
-  <li>Sitio personal: <a href:"https://tinexlab.vercel.app" target="blank">https://tinexlab.vercel.app</a>/</li>
+  <li><a href:"https://tinexlab.vercel.app" target="blank">Sitio personal.</a>/</li>
   <li>Correo: tinoreyna1984@gmail.com</li>
 </ul>
 <h3 align="left">Contacto:</h3>
