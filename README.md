@@ -4,7 +4,16 @@
   <li>Sitio personal: <a href="https://tinexlab.vercel.app" target="blank">https://tinexlab.vercel.app</a></li>
   <li>Correo: tinoreyna1984@gmail.com</li>
 </ul>
-<h3 align="left">Contacto:</h3>
+<h2>Mis conocimientos y tecnologías</h2>
+<ul>
+  <li>HTML + CSS</li>
+  <li>JavaScript</li>
+  <li>Next.js</li>
+  <li>MySQL</li>
+  <li>Java</li>
+  <li>Spring Boot</li>
+</ul>
+<h2 align="left">Contacto:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/tinoreyna1984" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tinoreyna1984" height="30" width="40" /></a>
 <a href="https://instagram.com/tinoreyna1984" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tinoreyna1984" height="30" width="40" /></a>
