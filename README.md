@@ -8,10 +8,12 @@
 <ul>
   <li>HTML + CSS</li>
   <li>JavaScript</li>
+  <li>React</li>
   <li>Next.js</li>
   <li>MySQL</li>
   <li>Java</li>
   <li>Spring Boot</li>
+  <li>Git</li>
 </ul>
 <h2 align="left">Contacto:</h2>
 <p align="left">
