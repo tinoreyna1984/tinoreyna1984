@@ -6,14 +6,18 @@
 </ul>
 <h2>Mis conocimientos y tecnologías</h2>
 <ul>
-  <li>HTML + CSS</li>
-  <li>JavaScript</li>
-  <li>React</li>
-  <li>Next.js</li>
-  <li>MySQL</li>
-  <li>Java</li>
+  <li>Java (17+)</li>
   <li>Spring Boot</li>
+  <li>PostgreSQL</li>
+  <li>MySQL</li>
+  <li>Angular (15+)</li>
+  <li>React (16+)</li>
+  <li>Next.js</li>
+  <li>TypeScript</li>
+  <li>JavaScript</li>
   <li>Git</li>
+  <li>Docker</li>
+  <li>HTML + CSS</li>
 </ul>
 <h2 align="left">Contacto:</h2>
 <p align="left">
