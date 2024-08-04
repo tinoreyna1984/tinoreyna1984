@@ -12,12 +12,15 @@
   <li>MySQL</li>
   <li>Angular (15+)</li>
   <li>React (16+)</li>
+  <li>React Native</li>
   <li>Next.js</li>
-  <li>TypeScript</li>
+  <li>HTML + CSS</li>
   <li>JavaScript</li>
+  <li>TypeScript</li>
+  <li>jQuery</li>
   <li>Git</li>
   <li>Docker</li>
-  <li>HTML + CSS</li>
+  <li>Metodologías ágiles</li>
 </ul>
 <h2 align="left">Contacto:</h2>
 <p align="left">
