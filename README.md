@@ -6,21 +6,9 @@
 </ul>
 <h2>Mis conocimientos y tecnologías</h2>
 <ul>
-  <li>Java (17+)</li>
-  <li>Spring Boot</li>
-  <li>PostgreSQL</li>
-  <li>MySQL</li>
-  <li>Angular (15+)</li>
-  <li>React (16+)</li>
-  <li>React Native</li>
-  <li>Next.js</li>
-  <li>HTML + CSS</li>
-  <li>JavaScript</li>
-  <li>TypeScript</li>
-  <li>jQuery</li>
-  <li>Git</li>
-  <li>Docker</li>
-  <li>Metodologías ágiles</li>
+  <li>Backend: Java (17+), Spring Boot, Bases de datos: PostgreSQL, MySQL</li>
+  <li>Frontend: React (16+), React Native, Next.js, HTML + CSS + JavaScript/TypeScript, jQuery</li>
+  <li>Otros: Git, Docker, Metodologías ágiles</li>
 </ul>
 <h2 align="left">Contacto:</h2>
 <p align="left">
